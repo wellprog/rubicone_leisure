@@ -1,9 +1,10 @@
 /*Ильичев Илья*/
 .menu {
 	position: fixed;
-	margin-left: 205px;
-	margin-top: -90px;
-	width: 1500px;
+	max-width: 1500px;
+	margin: -90px auto;
+	margin-left: -40px;
+	padding: 0px 15px;
 }
 .b {
 	padding: 5px;
@@ -16,17 +17,17 @@
 	background-color: rgba(255,255,255,0.3);
 }
 .help:hover {
-	background-color: #08FF00;
+	background-color: rgb(74, 165, 70);
 	color: black;
 	padding: 10px;
 }
 .home:hover {
-	background-color: yellow;
+	background-color: rgb(73, 150, 212);
 	color: black;
 	padding: 10px;
 }
 .vk:hover {
-	background-color: red;
+	background-color: rgb(204, 49, 101);
 	color: black;
 	padding: 10px;
 }
