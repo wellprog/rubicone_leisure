@@ -1,0 +1,64 @@
+/*Ильичев Илья*/
+body {
+	background-color: #E8E8E8;
+}
+.main {
+	background-color: white;
+	border: 1px solid #4A8AF3;
+	border-radius: 10px;
+	min-height: 380px;
+	max-width: 600px;
+	margin: 150px auto;
+	padding: 0px 15px;
+}
+.a {
+	font-family: fantasy;
+	font-size: 24px;
+	margin-top: 15px;
+	color: rgba(0, 0, 0, 0.9);
+}
+input {
+	border-radius: 5px;
+	border: 1px solid #A2A2A2;
+	background-color: #F5F5F5;
+	width: 99%;
+	margin-bottom: 10px;
+	height: 25px;
+}
+.b {
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 5px;
+	float: left;
+}
+.ba {
+	margin-right: 20px;
+	float: right;
+	margin-bottom: 1px;
+	color: rgba(0, 0, 0, 0.7);
+}
+.bay {
+	background-color: #1A9F5F;
+	padding: 10px;
+	color: white;
+	border-radius: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
+	font-size: 15px;
+	border: none;
+	transition: all ease 0.3s;
+	cursor: pointer;
+	float: right;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+.bay:hover {
+	padding-left: 28px;
+	padding-right: 28px;
+	font-size: 18px;
+}
+.no {
+	background-color: #DC5145;
+	float: left;
+	margin-top: -141px;
+}

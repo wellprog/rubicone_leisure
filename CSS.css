@@ -1,0 +1,43 @@
+/*Ильичев Илья*/
+body {
+	background-image: url(Pictures/Forest.jpg);
+}
+.i {
+	border-radius: 5px;
+	margin: 5px;
+}
+.block {
+	float: left;
+	border: none;
+	background-color: #EDEDED;
+	border-radius: 5px;
+	width: 200px;
+	margin-left: 20px;
+	margin-top: 20px;
+	cursor: pointer;
+	transition: all ease 1s;
+	box-shadow: 8px 8px 7px black;
+}
+.block:hover {
+ 	background-color: white;
+ 	padding: 10px;
+}
+p {
+	font-family: fantasy;
+	color: #3B3B3B;
+	padding-bottom: 10px ;
+}
+.main {
+	margin: auto auto;
+	padding: 0px 15px;
+	max-width: 920px;
+}
+a {
+	text-decoration: none; 
+}
+.best {
+	font-family: fantasy;
+	color: white;
+	font-size: 72px;
+	width: 100%;
+}
